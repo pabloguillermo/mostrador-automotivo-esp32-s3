@@ -19,7 +19,7 @@ desde que configurado corretamente).
 
 | Mostrador em Operação | Detalhes da Instalação |
 | :---: | :---: |
-| ![Mostrador Dia](caminho/para/sua/foto1.jpg) | ![Circuito](caminho/para/sua/foto2.jpg) |
+| ![Mostrador Dia](https://github.com/pabloguillermo/mostrador-automotivo-esp32-s3/blob/main/foto1.jpg) | ![Circuito](https://github.com/pabloguillermo/mostrador-automotivo-esp32-s3/blob/main/foto2.jpg) |
 
 ## 🎥 Vídeos do Projeto (YouTube)
 Confira o funcionamento do mostrador no painel do carro:
